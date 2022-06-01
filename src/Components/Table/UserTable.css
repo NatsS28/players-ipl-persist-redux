@@ -1,0 +1,13 @@
+.userTableColumnName{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px !important;
+        font-weight: 700 !important;
+    background-color: #d21919;
+    color: aliceblue !important;
+}
+
+.userFieldValue{
+    font-size: 13px;
+        font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}

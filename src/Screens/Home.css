@@ -1,0 +1,26 @@
+.homeaddbutton{
+    margin: 10px 50px 15px 0px !important;
+    background-color: plum;
+    width: 250px; 
+    color: black;
+}
+
+.home-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.homeheaderText{
+    font-size: 20px;
+    font-weight: 800;
+    margin:10px 50px;
+}
+
+.containerhome{
+        background: #E7EBEF;
+            padding: 20px;
+            height: 95vh;
+            display: flex;
+            flex-direction: column;
+}
